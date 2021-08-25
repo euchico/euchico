@@ -1,4 +1,12 @@
-# Francisco de Paula (euCHICO)
+<div align="center">
+<h1> Francisco de Paula (euCHICO) </h1>
+
+Desenvolvedor Front-end <br>
+Estudante de Licenciatura em Matemática <br>
+Artista Amador <br>
+</div>
+
+<br>
 
  <div align="center">
   <a href="https://github.com/euchico">
@@ -18,6 +26,7 @@
   ##
  
 <div align="center"> 
-  <a href = "mailto:eu.francisco@outlook.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/euchico" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:eu.francisco@outlook.com"><img src="https://img.shields.io/badge/-Outlook-22272e?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/euchico" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-22272e?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://instagram.com/eu.chico" target="_blank"><img src="https://img.shields.io/badge/Instagram-22272e?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
