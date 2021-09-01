@@ -1,7 +1,7 @@
 <div align="center">
 <h1> Francisco de Paula (euCHICO) </h1>
 
-Desenvolvedor Web <br>
+Desenvolvedor Front-end <br>
 Estudante de Licenciatura em Matemática <br>
 Artista Amador <br>
 </div>
