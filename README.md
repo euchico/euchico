@@ -14,16 +14,22 @@ Artista Amador <br>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euchico&custom_title=Linguagens&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align="center">
+  <br>
+  <span align="center">Estudando</span>
+  <br>
+  <img align="center" alt="CSharp" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+  <img align="center" alt="MySQL" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+  <br>
+  <br>
+  <span align="center">Outros Conhecimentos</span>
+  <br>
   <img align="center" alt="HTML" height="30" width="auto" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
   <img align="center" alt="CSS" height="30" width="auto" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
   <img align="center" alt="Js" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Photoshop" height="30" width="auto" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Figma" height="30" width="auto" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   <img align="center" alt="Git" height="30" width="auto" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
-  <br>
-  <img align="center" alt="CSharp" height="30" width="auto"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
-  <img align="center" alt="MySQL"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
 </div>
   
   ##
