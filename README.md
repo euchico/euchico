@@ -26,9 +26,9 @@ Artista Amador <br>
   <br>
   <img align="center" alt="HTML" height="30" width="auto" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" />
   <img align="center" alt="CSS" height="30" width="auto" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" />
+  <img align="center" alt="SASS" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Js" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Git" height="30" width="auto" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" />
-  <img align="center" alt="Linux" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
   <img align="center" alt="Photoshop" height="30" width="auto" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" />
   <img align="center" alt="Figma" height="30" width="auto" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
 </div>
