@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Francisco de Paula (euCHICO) </h1>
+<h1> Francisco de Paula (euChico) </h1>
 
 Programador Jr. <br>
 Estudante de Licenciatura em Matemática <br>
