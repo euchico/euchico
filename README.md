@@ -2,7 +2,6 @@
 <h1> Francisco de Paula (euChico) </h1>
 
 Programador Jr. <br>
-Estudante de Licenciatura em Matemática <br>
 Artista Amador <br>
 </div>
 
