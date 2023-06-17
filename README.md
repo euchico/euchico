@@ -13,8 +13,8 @@
 </div>
 
 <div style="display: inline_block" align="center">
-  <br>
-  
+
+
   <span align="center">Estudando</span>
   <br>
   <img align="center" alt="CSharp" height="30" width="auto" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" />
