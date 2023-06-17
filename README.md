@@ -1,7 +1,7 @@
 <div align="center">
- <h1> Francisco de Paula (euChico) </h1>
+  <h1> Francisco de Paula (euChico) </h1>
  
- Programador Jr. <br>
+  Programador Jr. <br>
 </div>
 
 <br>
@@ -13,7 +13,7 @@
 </div>
 
 <div style="display: inline_block" align="center">
-
+  <br>
 
   <span align="center">Estudando</span>
   <br>
