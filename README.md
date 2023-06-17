@@ -1,7 +1,8 @@
 <div align="center">
   <h1> Francisco de Paula (euChico) </h1>
  
-  Programador Jr. <br>
+  <b>Programador Jr.</b>
+  <br>
   <i>Compartilhando minha trajetória profissional, projetos pessoais e estudos de desenvolvimento.</i>
 </div>
 
