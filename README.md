@@ -22,7 +22,6 @@
   <img align="center" alt="CSharp" height="30" width="auto" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" />
   <img align="center" alt="dotNET" height="30" width="auto" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain.svg" />
   <img align="center" alt="Angular" height="30" width="auto" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" />
- <img align="center" alt="Python" height="30" width="auto" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" />
 
   
   <span align="center">Outros Conhecimentos</span>
