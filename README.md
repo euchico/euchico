@@ -10,8 +10,19 @@
 
 <div align="center">
   <a href="https://github.com/euchico">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=euchico&custom_title=Estatísticas&show_icons=true&theme=dark&include_all_commits=true&count_private=true&iten_color=79ff97"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euchico&custom_title=Linguagens&layout=compact&langs_count=6&theme=dark"/>
+    <div>
+      <table style="margin: 0 auto;" align="center">
+        <tr>
+          <td>
+            <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=euchico&theme=dark&hide_border=false"/>
+          </td>
+          <td>
+            <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euchico&layout=compact&theme=dark&count_private=true"/>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </a>
 </div>
 
 <div style="display: inline_block" align="center">
@@ -19,7 +30,6 @@
 
   <span align="center">Estudando</span>
   <br>
-  <img align="center" alt="CSharp" height="30" width="auto" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" />
   <img align="center" alt="dotNET" height="30" width="auto" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain.svg" />
   <img align="center" alt="Angular" height="30" width="auto" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" />
 
@@ -36,6 +46,7 @@
   ##
  
 <div align="center"> 
+  <h3> <a href="https://github.com/euchico"> euchico.github.io </a> </h3>
   <a href = "mailto:eu.francisco@outlook.com"><img src="https://img.shields.io/badge/-Outlook-22272e?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/euchico" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-22272e?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://instagram.com/euchicodev" target="_blank"><img src="https://img.shields.io/badge/Instagram-22272e?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
