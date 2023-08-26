@@ -28,19 +28,16 @@
 <div style="display: inline_block" align="center">
   <br>
 
-  <span align="center">Estudando</span>
+  <span align="center">Estudando:</span>
   <br>
-  <img align="center" alt="dotNET" height="30" width="auto" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain.svg" />
-  <img align="center" alt="Angular" height="30" width="auto" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" />
-
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-C%23-white?style=for-the-badge&logo=.net&logoColor=white&labelColor=0298EF">
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-0298EF?style=for-the-badge&logo=angular&logoColor=white">
   
-  <span align="center">Outros Conhecimentos</span>
+  <span align="center">Outros Conhecimentos:</span>
   <br>
-  <img align="center" alt="HTML" height="30" width="auto" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" />
-  <img align="center" alt="CSS" height="30" width="auto" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" />
-  <img align="center" alt="SASS" height="30" width="auto" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
-  <img align="center" alt="Js" height="30" width="auto" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Git" height="30" width="auto" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-1CD052?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1CD052?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-1CD052?style=for-the-badge&logo=git&logoColor=white">
 </div>
   
   ##
