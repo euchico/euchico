@@ -45,6 +45,4 @@
 <div align="center"> 
   <h3> <a href="https://github.com/euchico"> euchico.github.io </a> </h3>
   <a href = "mailto:eu.francisco@outlook.com"><img src="https://img.shields.io/badge/-Outlook-22272e?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/euchico" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-22272e?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://instagram.com/euchicodev" target="_blank"><img src="https://img.shields.io/badge/Instagram-22272e?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
