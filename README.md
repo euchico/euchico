@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
   <h1> Francisco de Paula (euChico) </h1>
   <br/>
   <i>Compartilhando minha trajetória profissional, projetos pessoais e estudos de desenvolvimento.</i>
@@ -11,8 +11,8 @@ Sou Francisco de Paula e moro na Baixada Fluminense, no Rio de Janeiro.
 
 Sou Programador Jr., desempenhando o papel de Full Stack com foco em C# e Angular. Curso Análise e Desenvolvimento de Sistemas, e para complementar minha formação, realizo cursos livres que abrangem tecnologias e conceitos importantes para minha prática diária.   
 
--  📐 Também curso Licenciatura em Matemática.
--  🎨 Sou apaixonado por arte (@euchicoart).
+- 📐 Também curso Licenciatura em Matemática.
+- 🎨 Sou apaixonado por arte (@euchicoart).
 - 🎬 Um aspirante a produtor de conteúdo.
 
 <br/>
@@ -67,16 +67,16 @@ Sou Programador Jr., desempenhando o papel de Full Stack com foco em C# e Angula
 ## Conexões
 <div align="center">
 <a href="https://linkedin.com/in/euchico" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/euchicodev" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/euchicodev" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/euchicodev" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white&color=black alt=devto style="margin-bottom: 5px;" />
 </a>  
 </div>  
 
