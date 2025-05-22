@@ -79,24 +79,3 @@ Programador Jr., desempenhando o papel de Full Stack com foco em C# e Angular. C
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white&color=black alt=devto style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
-<br/>  
-
-## GitHub  
-<div align="center">
-  <a href="https://github.com/euchico">
-    <div>
-      <table style="margin: 0 auto;" align="center">
-        <tr>
-          <td>
-            <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=euchico&theme=dark&hide_border=false"/>
-          </td>
-          <td>
-            <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euchico&layout=compact&theme=dark&count_private=true"/>
-          </td>
-        </tr>
-      </table>
-    </div>
-  </a>
-</div>
-<br />
