@@ -1,4 +1,8 @@
 <div align="center">
+	<img src="banner.jpg" alt="Logo" width="auto">
+</div>
+
+<div align="center">
   <h1> Francisco de Paula <img width="30" src="https://emojis.slackmojis.com/emojis/images/1643512754/51021/thisisfine.gif?1643512754" alt="this is fine" /></h1>
   <br/>
   Programador Full Stack focado no ecossistema .NET e especialista em ERP.
@@ -29,8 +33,8 @@ Desenvolvedor Fullstack há 4 anos, especializado em .NET/C# e com experiência 
 
 ## Tecnologias
 
-- **Back-end:** .NET/C#, PHP, Delphi, Ext.NET;
-- **Front-end:** Angular, HTML/CSS, JavaScript/jQuery, WordPress;
+- **Back-end:** .NET/C#, Ext.NET, Delphi e PHP;
+- **Front-end:** HTML/CSS, JavaScript/jQuery, Angular e WordPress;
 - **Banco de Dados:** PL/SQL (Oracle);
 - **Ferramentas:** Visual Studio, Figma, Photoshop, GIMP, Inkscape.
 
