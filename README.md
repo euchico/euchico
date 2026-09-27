@@ -21,14 +21,14 @@
 Desenvolvedor .NET com mais de 4 anos de experiência recente em sustentação, manutenção e evolução de sistemas corporativos, principalmente ERP. Atuação no back-end com C#/.NET e front-end com Angular, investigação de incidentes, debugging, análise de regras de negócio e banco de dados Oracle/PLSQL. Graduado em Análise e Desenvolvimento de Sistemas, com especializações concluídas em ERP e Engenharia da Computação. Possui experiência em integrações, testes funcionais e manutenção de sistemas legados, atuando na interface entre código, dados e processos de negócio.
 
 
-### Experiência
+## Experiência
 
 -  **MXM Sistemas** como Programador Jr. *(Nov. de 2021 ~ Abr de 2026)*
 -  **Agência Kindle** como Desenvolvedor Front-end Jr. *(Ago. de 2021 ~ Nov. de 2021)*
 -  **Vento Consulting** como Estagiário *(Ago. de 2013 ~ Jun. de 2014)*
 
 
-### Educação
+## Educação
 
 - Análise e Desensivolvimento de Sistema (UNINTER)
 - Especialização em ERP – Enterprise Resource Planning (UNINTER)
@@ -43,7 +43,7 @@ Desenvolvedor .NET com mais de 4 anos de experiência recente em sustentação, 
 - **Inteligência Artificial**: Codex e Google Stitch.
 
 
-### Habilidades
+## Habilidades
 
 - Análise de Regras de Negócio
 - Análise de Incidentes e Resolução de Problema
