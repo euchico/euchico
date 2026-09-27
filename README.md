@@ -18,7 +18,8 @@
 <br/>
 
 ## Sobre
-Desenvolvedor Fullstack há 4 anos, especializado em .NET/C# e com experiência em PHP e Delphi. Trabalho desde a etapa de design até a análise de banco de dados, focado em debugging, qualidade e documentação. Graduado em Análise e Desenvolvimento de Sistema e especializado em ERP.
+Desenvolvedor .NET com mais de 4 anos de experiência recente em sustentação, manutenção e evolução de sistemas corporativos, principalmente ERP. Atuação no back-end com C#/.NET e front-end com Angular, investigação de incidentes, debugging, análise de regras de negócio e banco de dados Oracle/PLSQL. Graduado em Análise e Desenvolvimento de Sistemas, com especializações concluídas em ERP e Engenharia da Computação. Possui experiência em integrações, testes funcionais e manutenção de sistemas legados, atuando na interface entre código, dados e processos de negócio.
+
 
 ### Experiência
 
@@ -26,33 +27,40 @@ Desenvolvedor Fullstack há 4 anos, especializado em .NET/C# e com experiência 
 -  **Agência Kindle** como Desenvolvedor Front-end Jr. *(Ago. de 2021 ~ Nov. de 2021)*
 -  **Vento Consulting** como Estagiário *(Ago. de 2013 ~ Jun. de 2014)*
 
+
 ### Educação
 
 - Análise e Desensivolvimento de Sistema (UNINTER)
-- Especialização em ERP (UNINTER)
+- Especialização em ERP – Enterprise Resource Planning (UNINTER)
+
 
 ## Tecnologias
 
-- **Back-end:** .NET/C#, Ext.NET, Delphi e PHP;
-- **Front-end:** HTML/CSS, JavaScript/jQuery, Angular e WordPress;
-- **Banco de Dados:** PL/SQL (Oracle);
-- **Ferramentas:** Visual Studio, Figma, Photoshop, GIMP, Inkscape.
+- **Back-end**: .NET/C#, Ext.NET, Delphi e PHP;
+- **Front-end**: HTML/CSS, JavaScript/jQuery, Angular e WordPress;
+- **Banco de Dados**: PL/SQL (Oracle) e SQL Server;
+- **Ferramentas**: Visual Studio, Figma e Photoshop;
+- **Inteligência Artificial**: Codex e Google Stitch.
+
 
 ### Habilidades
 
-- Integrações bancárias
-- SEO
-- Testes funcionais
-- Documentação técnica
+- Análise de Regras de Negócio
+- Análise de Incidentes e Resolução de Problema
+- Testes Funcionais
+- Documentação Técnica
+- Sistemas ERP
+
 
 ## Outros
 
+- 📐 Prática em aulas de Matemática. 
 - 🎨 Apaixonado por arte (Instragram @euchicoarte).
-- 🌱 Entusiasta iniciante de Bonsai.
 - 🕹️ Jogador análogico e digital.
+
 
 ## Repositórios
 
-- **Portfólio**: [/euchico.github.io](https://github.com/euchico/euchico.github.io)
+- **Portfólio**: [euchico.github.io](https://github.com/euchico/euchico.github.io)
 - **Estudos**: [/estudos](https://github.com/euchico/estudos)
 - **Projetos**: [/projetos](https://github.com/euchico/projetos)
