@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="images/banner.jpg" alt="Banner" width="auto">
+	<img src="image/banner.jpg" alt="Banner" width="auto">
 </div>
 
 <div align="center">
@@ -57,7 +57,7 @@ Graduado em Análise e Desenvolvimento de Sistemas, com especializações conclu
 
 ## Outros
 
-- 📐 Prática em aulas de Matemática. 
+- 📐 Prática em lecionar Matemática. 
 - 🎨 Apaixonado por arte (Instragram @euchicoarte).
 - 🕹️ Jogador análogico e digital.
 
