@@ -18,7 +18,12 @@
 <br/>
 
 ## Sobre
-Desenvolvedor .NET com mais de 4 anos de experiência recente em sustentação, manutenção e evolução de sistemas corporativos, principalmente ERP. Atuação no back-end com C#/.NET e front-end com Angular, investigação de incidentes, debugging, análise de regras de negócio e banco de dados Oracle/PLSQL. Graduado em Análise e Desenvolvimento de Sistemas, com especializações concluídas em ERP e Engenharia da Computação. Possui experiência em integrações, testes funcionais e manutenção de sistemas legados, atuando na interface entre código, dados e processos de negócio.
+
+Desenvolvedor .NET com mais de 4 anos de experiência recente em sustentação, manutenção e evolução de sistemas corporativos, principalmente ERP. Atuação no back-end com C#/.NET e front-end com Angular, investigação de incidentes, debugging, análise de regras de negócio e banco de dados Oracle/PLSQL.
+
+<br/>
+
+Graduado em Análise e Desenvolvimento de Sistemas, com especializações concluídas em ERP e Engenharia da Computação. Possui experiência em integrações, testes funcionais e manutenção de sistemas legados, atuando na interface entre código, dados e processos de negócio.
 
 
 ## Experiência
